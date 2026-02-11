@@ -1,63 +1,56 @@
-{
-  "materials": [
-  {
-    "objdid": "VER-00000000",
-    "deletedstatus": "0",
-    "objsmolformula": "H2STe2",
-    "objsmolmassvalue": "289.28188",
-    "objsmolmassdecplcsentrd": "5",
-    "objssmilescodemain": "[TeH]S[TeH]",
-    "objssmilescodergrproot": null,
-    "objssmilescoder1": null,
-    "objssmilescoder2": null,
-    "objssmilescoder3": null,
-    "objssmilescoder4": null,
-    "auditcreateduserid": "RBAKER",
-    "auditcreatedtime": "1121264227",
-    "auditmodifieduserid": null,
-    "objsmolfile": "\r\n      -IDBS-   092720241127\r\n\r\n  3  2  0  0  0  0  0  0  0  0999 V2000\r\n   -9.1964   -0.9598    0.0000 Te  0  0  0  0  0  0  0  0  0  0  0  0\r\n   -8.3714   -0.9598    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -7.5464   -0.9598    0.0000 Te  0  0  0  0  0  0  0  0  0  0  0  0\r\n  1  2  1  0     0  0\r\n  2  3  1  0     0  0\r\nM  END\r\n",
-    "objsstrct": "YwQkAw40dCQTwXS1db8OEEHxBcF0tXW/DjQcfPHAdLV1vwIAAAEAAQLkTKgUQli9BSXBA6FYHOwfeA=="
-  },
-  {
-    "objdid": "VER-00000001",
-    "deletedstatus": "0",
-    "objsmolformula": "C16H17NO",
-    "objsmolmassvalue": "239.31232",
-    "objsmolmassdecplcsentrd": "5",
-    "objssmilescodemain": "OC1CN(C1)C(C2=CC=CC=C2)C3=CC=CC=C3",
-    "objssmilescodergrproot": null,
-    "objssmilescoder1": null,
-    "objssmilescoder2": null,
-    "objssmilescoder3": null,
-    "objssmilescoder4": null,
-    "auditcreateduserid": "SYSADMIN",
-    "auditcreatedtime": "983893570",
-    "auditmodifieduserid": "SYSADMIN",
-    "objsmolfile": "\r\n      -IDBS-   121420121408\r\n\r\n 18 20  0  0  0  0  0  0  0  0999 V2000\r\n   -1.6065   -0.7823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.6065   -1.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.7815   -1.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.7815   -0.7823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.1899   -2.1907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.1982   -0.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.5987   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.8104   -1.2145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.1899   -0.8484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.9780   -0.0501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6033   -1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.1796    0.1677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.4117    0.5979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.1770    1.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.8298    2.1907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.4152    1.6080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.0336    1.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.2045    0.8077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n  2  1  1  0     0  0\r\n  3  2  1  0     0  0\r\n  4  3  1  0     0  0\r\n  1  4  1  0     0  0\r\n  5  2  1  0     0  0\r\n  6  4  1  0     0  0\r\n  7  6  1  0     0  0\r\n  8  7  2  0     0  0\r\n 10  9  1  0     0  0\r\n 12  7  1  0     0  0\r\n 11  8  1  0     0  0\r\n  9 11  2  0     0  0\r\n 12 10  2  0     0  0\r\n 13  6  1  0     0  0\r\n 14 13  2  0     0  0\r\n 16 15  1  0     0  0\r\n 18 13  1  0     0  0\r\n 17 14  1  0     0  0\r\n 15 17  2  0     0  0\r\n 18 16  2  0     0  0\r\nM  END\r\n",
-    "objsstrct": "YwMEEgzLoc2/0ERIvwzLoc2/ArzNvwxiEEi/ArzNvw4HYhBIv9BESL8OCFInDMBuNAzADPH0Sr5xrEu+DGdEGT8zM9O+DGB2Tz+8dJu/DFInDEC+MFm/DBsv/T+oNU29DO84zT956ba/DCL9lj+MuSs+DFjK0r75Dxk/DH0/NT556ZY/DMZtVL9uNAxADEYltb/y0s0/DCegCb39h/w/DA4tmr9txU4/FBABABACARADAhAAAwAEAQAFAwAGBRIGBwYSBQkIEgULBhIFCgcSBggKEgYLCQAMBRIGDQwSBQ8OEgURDBIFEA0SBg4QEgYRDw=="
-  },
-  {
-    "objdid": "VER-00000003",
-    "deletedstatus": "0",
-    "objsmolformula": "C17H19NO3S",
-    "objsmolmassvalue": "317.4037",
-    "objsmolmassdecplcsentrd": "4",
-    "objssmilescodemain": "C[S](=O)(=O)OC1CN(C1)C(C2=CC=CC=C2)C3=CC=CC=C3",
-    "objssmilescodergrproot": null,
-    "objssmilescoder1": null,
-    "objssmilescoder2": null,
-    "objssmilescoder3": null,
-    "objssmilescoder4": null,
-    "auditcreateduserid": "SYSADMIN",
-    "auditcreatedtime": "983893581",
-    "auditmodifieduserid": "SYSADMIN",
-    "objsmolfile": "\r\n      -IDBS-   121420121408\r\n\r\n 22 24  0  0  0  0  0  0  0  0999 V2000\r\n    0.2040   -0.3372    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.2557   -1.7480    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.8074   -0.9241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.5951   -0.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.0083   -1.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9239    0.0748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.5357   -1.3361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -3.0507   -1.5359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.0394   -2.5388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6356   -0.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9156    0.8989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.9716   -2.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6356    1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.2040    1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6273   -1.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.3390    0.0665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.2040    2.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.3390   -1.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    3.0507   -0.3372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6398    2.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9281    2.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    3.0507   -1.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n  2  7  1  0     0  0\r\n  3  5  1  0     0  0\r\n  4  1  1  0     0  0\r\n  5  1  1  0     0  0\r\n  6  1  1  0     0  0\r\n  7  3  1  0     0  0\r\n  8  2  2  0     0  0\r\n  9  2  2  0     0  0\r\n 10  6  1  0     0  0\r\n 11  6  1  0     0  0\r\n 12  2  1  0     0  0\r\n 13 11  2  0     0  0\r\n 14 11  1  0     0  0\r\n 15 10  2  0     0  0\r\n 16 10  1  0     0  0\r\n 17 14  2  0     0  0\r\n 18 15  1  0     0  0\r\n 19 16  2  0     0  0\r\n 20 13  1  0     0  0\r\n 21 17  1  0     0  0\r\n 22 19  1  0     0  0\r\n  4  3  1  0     0  0\r\n 20 21  2  0     0  0\r\n 18 22  2  0     0  0\r\nM  END\r\n",
-    "objsstrct": "YwMEFg4HYOVQPnqlrL4OEGRdEMB3vt+/DMSxTr/RkWy/DHlYGL8AAAC+DLn8B7xHcpG/DLaEbD++MJk9DgjRkcS/UwWrvw4Iqz5DwF+YxL8OCIiFAsCzeyLADFdb0T9g5bC+DMNkaj9PHmY/DLIuPsDQswnADFdb0T+Zu6Y/DGDlUD6Zu6Y/DF5L0D90tZW/DC2yFUAnMYg9DGDlUD5n1QdADC2yFUB/+8q/DKs+Q0B6pay+DPfk0T9n1QdADPaXbT8QeiJADKs+Q0B0tZW/GAABBhACBBADABAEAAAFAAAGAgICBwECAggBAAkFAAoFAAsBEgYMChIFDQoSBg4JEgUPCRIGEA0SBREOEgYSDxIFEwwSBRQQEgUVEhADAhIGExQSBhEV"
-  }
-],
-  "projects": [
-    { "id": 1, "name": "project 1", "status": 1 },
-    { "id": 2, "name": "project 2", "status": 1 }
-  ]
-}
-
+[
+    {
+        "objdid": "VER-00000000",
+        "deletedstatus": "0",
+        "objsmolformula": "H2STe2",
+        "objsmolmassvalue": "289.28188",
+        "objsmolmassdecplcsentrd": "5",
+        "objssmilescodemain": "[TeH]S[TeH]",
+        "objssmilescodergrproot": null,
+        "objssmilescoder1": null,
+        "objssmilescoder2": null,
+        "objssmilescoder3": null,
+        "objssmilescoder4": null,
+        "auditcreateduserid": "RBAKER",
+        "auditcreatedtime": "1121264227",
+        "auditmodifieduserid": null,
+        "objsmolfile": "\r\n      -IDBS-   092720241127\r\n\r\n  3  2  0  0  0  0  0  0  0  0999 V2000\r\n   -9.1964   -0.9598    0.0000 Te  0  0  0  0  0  0  0  0  0  0  0  0\r\n   -8.3714   -0.9598    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -7.5464   -0.9598    0.0000 Te  0  0  0  0  0  0  0  0  0  0  0  0\r\n  1  2  1  0     0  0\r\n  2  3  1  0     0  0\r\nM  END\r\n",
+        "objsstrct": "YwQkAw40dCQTwXS1db8OEEHxBcF0tXW/DjQcfPHAdLV1vwIAAAEAAQLkTKgUQli9BSXBA6FYHOwfeA=="
+    },
+    {
+        "objdid": "VER-00000001",
+        "deletedstatus": "0",
+        "objsmolformula": "C16H17NO",
+        "objsmolmassvalue": "239.31232",
+        "objsmolmassdecplcsentrd": "5",
+        "objssmilescodemain": "OC1CN(C1)C(C2=CC=CC=C2)C3=CC=CC=C3",
+        "objssmilescodergrproot": null,
+        "objssmilescoder1": null,
+        "objssmilescoder2": null,
+        "objssmilescoder3": null,
+        "objssmilescoder4": null,
+        "auditcreateduserid": "SYSADMIN",
+        "auditcreatedtime": "983893570",
+        "auditmodifieduserid": "SYSADMIN",
+        "objsmolfile": "\r\n      -IDBS-   121420121408\r\n\r\n 18 20  0  0  0  0  0  0  0  0999 V2000\r\n   -1.6065   -0.7823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.6065   -1.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.7815   -1.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.7815   -0.7823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.1899   -2.1907    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.1982   -0.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.5987   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.8104   -1.2145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.1899   -0.8484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.9780   -0.0501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6033   -1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.1796    0.1677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.4117    0.5979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.1770    1.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.8298    2.1907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.4152    1.6080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.0336    1.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.2045    0.8077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n  2  1  1  0     0  0\r\n  3  2  1  0     0  0\r\n  4  3  1  0     0  0\r\n  1  4  1  0     0  0\r\n  5  2  1  0     0  0\r\n  6  4  1  0     0  0\r\n  7  6  1  0     0  0\r\n  8  7  2  0     0  0\r\n 10  9  1  0     0  0\r\n 12  7  1  0     0  0\r\n 11  8  1  0     0  0\r\n  9 11  2  0     0  0\r\n 12 10  2  0     0  0\r\n 13  6  1  0     0  0\r\n 14 13  2  0     0  0\r\n 16 15  1  0     0  0\r\n 18 13  1  0     0  0\r\n 17 14  1  0     0  0\r\n 15 17  2  0     0  0\r\n 18 16  2  0     0  0\r\nM  END\r\n",
+        "objsstrct": "YwMEEgzLoc2/0ERIvwzLoc2/ArzNvwxiEEi/ArzNvw4HYhBIv9BESL8OCFInDMBuNAzADPH0Sr5xrEu+DGdEGT8zM9O+DGB2Tz+8dJu/DFInDEC+MFm/DBsv/T+oNU29DO84zT956ba/DCL9lj+MuSs+DFjK0r75Dxk/DH0/NT556ZY/DMZtVL9uNAxADEYltb/y0s0/DCegCb39h/w/DA4tmr9txU4/FBABABACARADAhAAAwAEAQAFAwAGBRIGBwYSBQkIEgULBhIFCgcSBggKEgYLCQAMBRIGDQwSBQ8OEgURDBIFEA0SBg4QEgYRDw=="
+    },
+    {
+        "objdid": "VER-00000003",
+        "deletedstatus": "0",
+        "objsmolformula": "C17H19NO3S",
+        "objsmolmassvalue": "317.4037",
+        "objsmolmassdecplcsentrd": "4",
+        "objssmilescodemain": "C[S](=O)(=O)OC1CN(C1)C(C2=CC=CC=C2)C3=CC=CC=C3",
+        "objssmilescodergrproot": null,
+        "objssmilescoder1": null,
+        "objssmilescoder2": null,
+        "objssmilescoder3": null,
+        "objssmilescoder4": null,
+        "auditcreateduserid": "SYSADMIN",
+        "auditcreatedtime": "983893581",
+        "auditmodifieduserid": "SYSADMIN",
+        "objsmolfile": "\r\n      -IDBS-   121420121408\r\n\r\n 22 24  0  0  0  0  0  0  0  0999 V2000\r\n    0.2040   -0.3372    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.2557   -1.7480    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.8074   -0.9241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.5951   -0.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -0.0083   -1.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9239    0.0748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -1.5357   -1.3361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -3.0507   -1.5359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.0394   -2.5388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6356   -0.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9156    0.8989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n   -2.9716   -2.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6356    1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.2040    1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6273   -1.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.3390    0.0665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.2040    2.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    2.3390   -1.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    3.0507   -0.3372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    1.6398    2.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    0.9281    2.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n    3.0507   -1.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\r\n  2  7  1  0     0  0\r\n  3  5  1  0     0  0\r\n  4  1  1  0     0  0\r\n  5  1  1  0     0  0\r\n  6  1  1  0     0  0\r\n  7  3  1  0     0  0\r\n  8  2  2  0     0  0\r\n  9  2  2  0     0  0\r\n 10  6  1  0     0  0\r\n 11  6  1  0     0  0\r\n 12  2  1  0     0  0\r\n 13 11  2  0     0  0\r\n 14 11  1  0     0  0\r\n 15 10  2  0     0  0\r\n 16 10  1  0     0  0\r\n 17 14  2  0     0  0\r\n 18 15  1  0     0  0\r\n 19 16  2  0     0  0\r\n 20 13  1  0     0  0\r\n 21 17  1  0     0  0\r\n 22 19  1  0     0  0\r\n  4  3  1  0     0  0\r\n 20 21  2  0     0  0\r\n 18 22  2  0     0  0\r\nM  END\r\n",
+        "objsstrct": "YwMEFg4HYOVQPnqlrL4OEGRdEMB3vt+/DMSxTr/RkWy/DHlYGL8AAAC+DLn8B7xHcpG/DLaEbD++MJk9DgjRkcS/UwWrvw4Iqz5DwF+YxL8OCIiFAsCzeyLADFdb0T9g5bC+DMNkaj9PHmY/DLIuPsDQswnADFdb0T+Zu6Y/DGDlUD6Zu6Y/DF5L0D90tZW/DC2yFUAnMYg9DGDlUD5n1QdADC2yFUB/+8q/DKs+Q0B6pay+DPfk0T9n1QdADPaXbT8QeiJADKs+Q0B0tZW/GAABBhACBBADABAEAAAFAAAGAgICBwECAggBAAkFAAoFAAsBEgYMChIFDQoSBg4JEgUPCRIGEA0SBREOEgYSDxIFEwwSBRQQEgUVEhADAhIGExQSBhEV"
+    }
+]
