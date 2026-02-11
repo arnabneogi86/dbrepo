@@ -1,7 +1,7 @@
 {
     "materials":[
     {
-        "objdid": "VER-00000000",
+        "id": "VER-00000000",
         "deletedstatus": "0",
         "objsmolformula": "H2STe2",
         "objsmolmassvalue": "289.28188",
@@ -19,7 +19,7 @@
         "objsstrct": "YwQkAw40dCQTwXS1db8OEEHxBcF0tXW/DjQcfPHAdLV1vwIAAAEAAQLkTKgUQli9BSXBA6FYHOwfeA=="
     },
     {
-        "objdid": "VER-00000001",
+        "id": "VER-00000001",
         "deletedstatus": "0",
         "objsmolformula": "C16H17NO",
         "objsmolmassvalue": "239.31232",
@@ -37,7 +37,7 @@
         "objsstrct": "YwMEEgzLoc2/0ERIvwzLoc2/ArzNvwxiEEi/ArzNvw4HYhBIv9BESL8OCFInDMBuNAzADPH0Sr5xrEu+DGdEGT8zM9O+DGB2Tz+8dJu/DFInDEC+MFm/DBsv/T+oNU29DO84zT956ba/DCL9lj+MuSs+DFjK0r75Dxk/DH0/NT556ZY/DMZtVL9uNAxADEYltb/y0s0/DCegCb39h/w/DA4tmr9txU4/FBABABACARADAhAAAwAEAQAFAwAGBRIGBwYSBQkIEgULBhIFCgcSBggKEgYLCQAMBRIGDQwSBQ8OEgURDBIFEA0SBg4QEgYRDw=="
     },
     {
-        "objdid": "VER-00000003",
+        "id": "VER-00000003",
         "deletedstatus": "0",
         "objsmolformula": "C17H19NO3S",
         "objsmolmassvalue": "317.4037",
@@ -56,5 +56,6 @@
     }
 ]
 }
+
 
 
